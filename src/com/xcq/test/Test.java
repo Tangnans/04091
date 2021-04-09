@@ -7,7 +7,7 @@ public class Test {
        String str  = "aba-aba-aba-sin-jum-rap-bal";
          String cxk[] = str.split("-",5);
         for(String s:cxk){
-            System.out.println();
+            System.out.println(1);
           System.out.println(s);
       }
     }
